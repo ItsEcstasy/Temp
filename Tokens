@@ -1,1 +1,5 @@
-return {"abc", "xyz", "luffy"}
+return {
+    "abc",
+    "xyz",
+    "luffy"
+}
